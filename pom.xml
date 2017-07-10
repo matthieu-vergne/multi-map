@@ -11,7 +11,7 @@
 	
 	<scm>
 		<connection>scm:git:git://github.com/matthieu-vergne/multi-map.git</connection>
-		<developerConnection>scm:git:git://github.com/matthieu-vergne/multi-map.git</developerConnection>
+		<developerConnection>scm:git:githubMatthieu:matthieu-vergne/multi-map.git</developerConnection>
 		<url>scm:git:git://github.com/matthieu-vergne/multi-map.git</url>
 	</scm>
 	
